@@ -1,1 +1,1 @@
-Keyboard for Android built using Braille Feedback.
+Keyboard for Android built for providing Morse Code Feedback.
